@@ -158,9 +158,3 @@ async def removercargo(ctx, member : discord.Member, role : discord.Role):
 
 
 
-
-
-
-
-
-client.run('ODU3NjEyMzkxMzkzNzg3OTE0.YNSHxw.lHPFMGDzubBMvAYZm_Hiq-298Wo')
